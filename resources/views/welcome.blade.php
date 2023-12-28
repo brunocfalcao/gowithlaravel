@@ -68,7 +68,7 @@
                                     </svg>
                                 </div>
 
-                                <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Laracasts</h2>
+                                <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">SL Benfica</h2>
 
                                 <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
                                     Welcome to SL Benfica, a name synonymous with passion, tradition, and excellence in football. As one of the most decorated clubs in Portuguese football history, we invite you to become a part of our journey and experience the thrill of top-tier football.
